@@ -220,7 +220,7 @@
     {
       "id": 8,
       "name": "Astoria Park",
-      "image": "https://www.nycgo.com/images/venues/3696/astoriapark019_buglewicz_mg_4254__large.jpg",
+      "image": "https://static.nycgovparks.org/images/photo_gallery/full_size/25250.jpg",
       "borough": "Queens",
       "map": "https://goo.gl/maps/2RVPJenjnArB5sF39",
       "transit": {
@@ -246,7 +246,7 @@
     {
       "id": 9,
       "name": "Flushing Meadows Corona Park",
-      "image": "https://www.nycgo.com/images/venues/1169/unisphere_flushing-meadows-corona-park-_queens_shelli_weiler-20190829_0129.jpg",
+      "image": "https://static.nycgovparks.org/images/photo_gallery/full_size/18046.jpg",
       "borough": "Queens",
       "map": "https://goo.gl/maps/ueMNXcytHDF56da26",
       "transit": {
@@ -705,6 +705,31 @@
         "Located at the southernmost point of New York State"
       ],
       "visited": false
+    },
+    {
+      "name": "Battery Park",
+      "image": "https://www.nycgovparks.org/photo_gallery/full_size/25115.jpg",
+      "borough": "Manhattan",
+      "map": "https://www.google.com/maps/place/The+Battery/@40.7030884,-74.0162703,18z/data=!4m6!3m5!1s0x89c25a12f88ba2ad:0xbe70465e98439c12!8m2!3d40.7029312!4d-74.0153603!16zL20vMDRzcjEy",
+      "transit": {
+        "subway": [
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAFRUlEQVR4Ae2dBYwbORSG55iZmTGxZ3dtJ8fMzEyCY2ZmZhJVcCg8sY6ZSVRmZtiOJ1Ru486vTrnNUjzxJO9J/12500/ZN8+P7LlkRohNdEeWB5JfpiV/ItJnkf6JNCjSWK24jv6/AIq/PXbZz/l/R///FL8Hv1cLxvBneWQx2Msv36jQwUSo+L2h8r+IQBUimTppTij5jxH452YrdlpLgg+Un9HKfy1QfCagJCJ8BUi/nxb+cU0NVwuxnZbsES35sEimwcIzPBzk89s2DeCSEDvjyzf2qcYxlQLF35+lMrunFnDnsYdto6X/upa8Esk4rrJW7NVZmczW6XITip+vJZ8YyaRMU0PJb3AecCHHD4ggf4eHTrm+DY9q299JyKFkFybvh22KFQPlX+EMYHPwwZvhhaIlr0YyzSe/n8lkNm0o5DLnu4aS/48Hamop/i+ip8a4ivb2/bTkIyKZFtGYgsgelPzJTvLJkUxriU0Lcxk/oRMeY1Zfeu4riJS1/EnO7qMlnxTJtLimWgv/8DJY1SeT/NEz89nd6h7CrTO6IP1T19BPS/9DgrpuhdJ/p455ixqHEVI1zPkX9z13IXlIMLsuKuBc0QeXwb8mkN2G/V1vDyVXOPePybWZ4vVXrVeFi85t6PPBhfQ8aS/4FNdAFy+/yNSyhb/90uhnnNSj4kFcGTGuqfL0466Dhl7q3sEkd/hOKO24CHrhP3+lAXSlW5k+LfnLLkIuXnahMUuWpAG0QTG6JmSU350M5/LtZtGggQaWAtBQAe0VNT7N7BHnTl7HKLPgpx8MLEWgTaD4Q7XcxnB34lLflO++zSweN9bA0gZaCzZ0nZBnSz/XsE/tscoUzj7VlG661lSeetzM+/wTs3j8OBNbKkFDBcE7nEgcLR4z2lQXzDc1LNWgA8nfXaurU0s+K+kHqQaBgTUr6FDyGcbzNlzLbRBoy+5DC/8xAp1A9KEl+55AW9PXHgylGKsdnwS6bDBtgPaBRj3EnDdfNXM/fK9bWtLZmVbQJsi3H+nFgznGdS0eNSKloOM8dfSNJwm0XSHYAOjPCLRdBcL/GKD/ItCWpfgfAD2YQFvXQICeQKCtaxxABwTaujoBegGBtq75CYIm0OQ67KuTXobJaByFd0lI+AMA+k8CbV2/J3gEpyM4JZWSSCpRmjSpNKlgjEDbT/zbL2UR6NKKxVlWd2wQ6K9XHTt+lEBbizgeXNlAo9oUgbY2h9huvyWMQE9frSUMhi0yBDqBqdpCLisJtBW3sbYhwUSgLTeix6AfJtAWoo11Dgsprgl0nxVgKLar0eQXCXSfG9CftT7QSaBZscDYDl53DAtRCXTvFCj2gtddmybElr2qJRLoiTM438rrifU8T02gsZ/V1cUotBgFht1u3ZoNJwVaZPb1+mK6wz+PllfVVDUU7CKv71Yr4UQKFX/Lq5eh3IXVvgR2Lf2FMpWNlZnx9gNSIPgo7M/2bFiQ53sjVmx50IJPiffc2TOs9I0UtHKEgf3ZXhKGPgWsHqNF3cmtnm8lnz2sJ7GyjRfkP80P2f8bWU2vkWZOOmlj3OTWpIeaKs4QCG8duvCGX9BkL8kCEmueiwa/3RyJKPYV/HE6LiUTfHwq42NcSpYmQwI8Xr9ZSgHkEiojKHh4aTVU1tFE6ab/ZkW8yItHZ3b0msUAHIuctORDHIA8BH0XaAloict90QSYINzA/ct9LRk6LZdBZ7dYuK66guuq4bZwJfYqXZ1kOPwAfAT9Eq344xgbQ84XA5HxZetBpAWx8O2x8c/9hV+L6Sf8XvwZ+LM8h2wpzrGNihMimrYAAAAASUVORK5CYII=",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAG90lEQVR4Ae2dA7QjvxfHU3cyD3/+bNu2bdu2bdu2bZvPk1nbtv3a6d7ffM+ZtfJ2m3Sazj3nu247+znpzc3NzQ0Lk5FgqVbX3sxzrGMKLr/Jc623PIc3FATv5Ane19c4X61Q8Ou++DvP5fX+r9/Ea/DaVmFvivdikQVgP2KJnMu3Lgjrck/YH/mwJviiImmq5/Kf8w6/I+/Y+1Qk+NaWqo3zwnrAhzESUDRpnOfwF/3P3cXs0Sv+XVtw7OvygndTClRCeIaCa19LTf+pMQhw9f/w9Q18KoVL1qS8sJ+kFnuF8gVc97/qvGs96Ak+xReFXJPzwrqfurKqsoLsufxQT/CBvqjMNNRz7NPCP4qbs2t6gv/gi8paDv+e2mfXCOcodvjhOv2wBk30XOu48Izi3iyDCcUTfKYvMk0ICakrS5cWcseq5TzBm32R4WpE9FQayO2yq+eF1cMUmBLqQyKztvaVnSf4YF9UYRqWa2dvrgUyEjYSk57JGtvqVG2i1l20WKt6gg/yRRWuocrCP0wG8/jkSL2pyV6+6CHcgtFFJOTKixr6eS5/OgK7cOVd+7Hi5S0WvRiJBDaudWQxchfjI5hL1DisK5Z+NAv+bQRRWj8spcuwjivmg+y8RZwYY8pkW4z+/+8YbbRWnPbfKUEXH5ek1+9M04DvLH2w2+pCkLT3BB+iHbQCxeOMdt86Qd8+ldEBe1CbNg+CnRHSClqDDt0tQcN+shRHIfweyQmw+r/Y2jERNLTaCjHq9FFWJewpUpm+vMPvxQtMBQ2t+L8Y9flK3cjGZvRiIWP7HeGc6aChbTaK0/QmZaN6AsorFgkadRf4h5UAGrrtvJSyUV0Q9jWLdhvC6l5JoG2LKZsc84J3XSjknGNth39QatBv35OmDx7ISOvZG9N010UpuvSEJNxBm2Fff4a6UZ0TfCvtiSNZ0FMalu1zxLtZLFqkQa+9SkzhpGg/vkBVpyf4KBNAQxP+4rTeajFp2N0+UxaBjCBicU1uQz9o6OfnM9Kg378/o8d9FIR9g2GgEcvSqsvLjeonr0vriT48wX80DTR05F6JUod50LcMhq0YLBtNBH3hsUmpz7zvUqWgJ+O0wazyATIR9EXHyYF+9XZ1rgOidlUbMRyuMRX04XvIuQ7nnaz6PHXB4TebCHpaI6f/1i55MvxPTUxdziMQgg2GI2Ymgn7p1rTU551xWFLHhsDriDjqTAP9+0tZ4lm5GLr5rawG0PZfrCB4ZxNAw1X8/VqWzj0qSfG4HGTsLer4v/uMO2JEDwgT6D23TdDe28lpx83itOGacVrhvzFKp/B6eVXzGPX9WtvGbT+AHlta0PplZRj99FxGF2RoNEC3VhLodVeLUd1rWZ2QoRkVAxqbsg9clqJJdVoBzwZdMa4DtR2/vSQ/klW4jgGV4jpiMUbnHJkMIhut6qc7vAuFELFM1QjbZ9wBI/rvSgMNXX1qSmPBuv1n6JbgiAha3pYT/u1XT2TowctTdMhuCUol5UEj7h70vbY4+nWjkkq9v7Jou03kvzn3X6ZnVCOpZFyadOhPllTWDtpvx4S2cl4jE/9XniyV8MfSXQtoJP6N3Mr68bmMbLinYQFjTZrdOAvHAkwCjTIvST+tI7H07dzlBtebBBqlBsmEHOgun2RVT4RXzwada+HbGgQakp4Q3ffUgs45fEtjS8KglZeTAy3eVQp6+DwlYTB0kTEJ9Oor6gctdao2145vYxLotVeRBq3HbcxtSDCZAVq+mrTxzazeQnQY2kiaAnqTdeQ+789XsuqjjUUcFhpnAuidNpf7vO+ezijpUoNDsWxxlhf8bgNA4/Cm1Oeh0Kboo9nlt8sf6Cxz0FedkpL5PFScFr0xIXWq/TeTMTRELXfQL98mVxJWWxVDxq+Yk+BdbWkBz7GXWM6ge3wun+/YcoN4sY7BDaSOzGZtMeSpyxg0hBIDadjfP5MpRo+lw6PGKGFtjAJDb7eo1Y9kOCes1Za1edUhUfOqxQpsjlgGxDIJp0h5YT3CimXBdldjBHYB1WGbSkXLzKD7QaS8sHuhfzZTYdRkrYJYMQLNhwR97tQZWvpilq3kCAP9s5kOQ50CWo9Fjbo1tZ6vJJ+Na58QK5fseia09jUetMvrkdVkpTT6nSVxk5uhi5qZWEMgvA3ThTeHGTZJTkBijYXR4LcNSUR9A39cLpeS9S/H+Di4lKx8DAlwtN9ENWX4AVuTsDOCDQ9WroaddRRRhtR/T8RETg01/2GmWAD8moLgXUoNGM+AuguUBFTK5b7DdS6dzbzcV8JQaQnoBZefp+C66im4rhpuC1diz1XVGRkWPwDvudZRPqAbcWzMVx0OROKy9cDPt0LBr/sGf1eHf4vTT3gt3gPvxUJk/wAqwGrACweSzQAAAABJRU5ErkJggg=="
+        ],
+        "bus": [
+          "M1"
+        ],
+        "ferry": [
+          "https://static.wikia.nocookie.net/logopedia/images/b/b1/NYC_Ferry_St_George.png"
+        ]
+      },
+      "features": [
+        "Tip of manhattan",
+        "near flatiron",
+        "castle clinton"
+      ],
+      "visited": false,
+      "id": 27
     }
   ]
 }
