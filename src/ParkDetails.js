@@ -3,8 +3,6 @@ import { useLocation } from "react-router-dom"
 
 
 export default function ParkDetails({ onMyParks}) {
-    // const params = useParams()
-    // // console.log(params)
   
     const location = useLocation()
     const state = location.state
@@ -33,10 +31,6 @@ export default function ParkDetails({ onMyParks}) {
         return <li key={feature}>{feature}</li>
     })
 
-    // const subwayArray = state.transit.subway.map((subwayOption) => {
-    //     return <li key={subwayOption}>{subwayOption}</li>
-    // })
-
     const subwayArray = state.transit.subway.map((icon) => {
         return <img src={icon} alt={icon} key={icon} className='subway-icon' />
     })
@@ -44,10 +38,6 @@ export default function ParkDetails({ onMyParks}) {
     const busArray = state.transit.bus.map((busOption) => {
         return <li key={busOption}>{busOption}</li>
     })
-
-    // const ferryArray = state.transit.ferry.map((ferryOption) => {
-    //     return <li key={ferryOption}>{ferryOption}</li>
-    // })
 
     const ferryArray = state.transit.ferry.map((icon) => {
         return <img src={icon} alt={icon} key={icon} className='ferry-icon' />
